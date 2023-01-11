@@ -1,6 +1,6 @@
 **Note:** this repository contains 2 folders, one containing the starter code written in Typescript, one containing the starter code written in Java. Everyone is expected to complete all of the tasks twice, once for each language. You should open the `java/` or `typescript/` folder in your IDE when working on each language rather than the root folder. 
 
-# Homework 1: Warm-Up with Flash Cards
+# Homework 1: Flashcard Learning Application
 
 In this assignment, you will complete a simple [flashcard](https://en.wikipedia.org/wiki/Flashcard) learning system. For now we are keeping things simple and use an interactive command-line interface, one of the simplest and oldest user interfaces for computer programs. The goals of this assignment are to familiarize you with our course infrastructure, let you practice object-oriented programming in Java and TypeScript, and start building on public libraries. 
 
